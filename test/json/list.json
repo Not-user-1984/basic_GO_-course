@@ -1,0 +1,89 @@
+{
+    "header": {
+      "code": 0,
+      "message": ""
+    },
+    "data": [
+      {
+        "type": "user",
+        "id": 100,
+        "attributes": {
+          "email": "bob@yandex.ru",
+          "article_ids": [10, 11, 12]
+        }
+      },
+      {
+        "type": "user",
+        "id": 101,
+        "attributes": {
+          "email": "alice@gmail.com",
+          "article_ids": [20, 21]
+        }
+      },
+      {
+        "type": "user",
+        "id": 102,
+        "attributes": {
+          "email": "john@example.com",
+          "article_ids": [30, 31, 32, 33]
+        }
+      },
+      {
+        "type": "user",
+        "id": 103,
+        "attributes": {
+          "email": "emma@hotmail.com",
+          "article_ids": [40, 41]
+        }
+      },
+      {
+        "type": "user",
+        "id": 104,
+        "attributes": {
+          "email": "alex@outlook.com",
+          "article_ids": [50]
+        }
+      },
+      {
+        "type": "user",
+        "id": 105,
+        "attributes": {
+          "email": "lisa@yahoo.com",
+          "article_ids": [60, 61, 62]
+        }
+      },
+      {
+        "type": "user",
+        "id": 106,
+        "attributes": {
+          "email": "peter@mail.com",
+          "article_ids": [70, 71, 72, 73]
+        }
+      },
+      {
+        "type": "user",
+        "id": 107,
+        "attributes": {
+          "email": "susan@protonmail.com",
+          "article_ids": [80, 81, 82]
+        }
+      },
+      {
+        "type": "user",
+        "id": 108,
+        "attributes": {
+          "email": "michael@icloud.com",
+          "article_ids": [90, 91]
+        }
+      },
+      {
+        "type": "user",
+        "id": 109,
+        "attributes": {
+          "email": "james@live.com",
+          "article_ids": [100]
+        }
+      }
+    ]
+  }
+  
